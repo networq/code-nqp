@@ -1,0 +1,6 @@
+networq:core:node:
+  name: .editorconfig
+  description: Editor Config file
+  url: https://editorconfig.org/
+networq:requirement:requirement:
+  instruction: Use a .editorconfig in your repository root
